@@ -21,7 +21,8 @@ list_of_files = [
     "param.yamal",
     "requirements.txt",
     "setup.py",
-    "research/trials.ipnyb"
+    "research/trials.ipnyb",
+    "templates/index.html"
     
 
 
